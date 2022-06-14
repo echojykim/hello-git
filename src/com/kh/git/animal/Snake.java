@@ -8,5 +8,6 @@ public class Snake {
   }
   public void eat() {
   System.out.println("Snake eat");
+  System.out.println("뱀이 뭔가 먹고있다.");
   }
 }
